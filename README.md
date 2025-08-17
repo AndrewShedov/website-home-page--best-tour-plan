@@ -1,3 +1,7 @@
+[![Discord](https://img.shields.io/discord/1006372235172384849?style=for-the-badge&logo=5865F2&logoColor=black&labelColor=black&color=%23f3f3f3
+)](https://discord.gg/ENB7RbxVZE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=5865F2&logoColor=black&labelColor=black&color=%23f3f3f3)](https://github.com/AndrewShedov/website-home-page--best-tour-plan/blob/main/LICENSE)
+
 ## Website home page - Best tour plan
 The main page of the website, based on a designer [layout](https://github.com/AndrewShedov/website-home-page--best-tour-plan/tree/main/public/layout), with precision layout - Pixel Perfect.<br/>
 Technologies: Flexbox/Grid, [Swiper](https://swiperjs.com/), [Vite](https://vitejs.dev/) and pure js. <br/>

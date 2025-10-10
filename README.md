@@ -9,7 +9,7 @@ Technologies: Flexbox/Grid, [Swiper](https://swiperjs.com/), [Vite](https://vite
 <img src="https://raw.githubusercontent.com/AndrewShedov/website-home-page--best-tour-plan/refs/heads/main/public/screenshot.webp" width="700" />
 </a>
 
-#### For start:
+#### How to Run:
 
 ```bash
 npm i

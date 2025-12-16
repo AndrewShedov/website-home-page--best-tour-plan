@@ -1,7 +1,7 @@
 [![Members](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=&logo=discord&logoColor=white&labelColor=black&color=%23f3f3f3&query=$.approximate_member_count&url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FENB7RbxVZE%3Fwith_counts%3Dtrue)](https://discord.gg/ENB7RbxVZE)&nbsp;[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=5865F2&logoColor=black&labelColor=black&color=%23f3f3f3)](https://github.com/AndrewShedov/website-home-page--best-tour-plan/blob/main/LICENSE)
 
 # Website home page - Best tour plan
-The main page of the website, based on a **designer [layout](https://github.com/AndrewShedov/website-home-page--best-tour-plan/tree/main/public/layout)**, with precision layout - **Pixel Perfect**.<br/>
+The main page of the website, based on a [designer layout](https://github.com/AndrewShedov/website-home-page--best-tour-plan/tree/main/public/layout), with precision layout - **Pixel Perfect**.<br/>
 Technologies: Flexbox/Grid, [Swiper](https://swiperjs.com/), [Vite](https://vitejs.dev/) and pure js. <br/>
 <br>
 <a href="https://website-home-page-best-tour-plan.vercel.app/" target="_blank">
